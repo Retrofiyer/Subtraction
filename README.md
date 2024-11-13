@@ -1,6 +1,7 @@
 # JavaScript-Subtraction Calculator
 
-![image](https://github.com/user-attachments/assets/81789d9b-3078-40f6-b38d-211249f1552c)
+![image](https://github.com/user-attachments/assets/5971ab4f-adac-4dd0-9cdc-6f0fb0cfa14c)
+
 
 ## About The Project
 
@@ -65,8 +66,8 @@ If you don't have any of these tools installed, follow the provided links to ins
 
 1.- Clone the repository
    ```sh
-   git clone https://github.com/Retrofiyer/PlusNumbers.git
-   cd PlusNumbers
+   git clone https://github.com/Retrofiyer/Subtraction.git
+   cd Subtraction
    ```
 2.- Build project using node.js
  ```sh
